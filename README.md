@@ -1,6 +1,4 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-ten-lac-39.vercel.app/api?username=jingavin&theme=dark&rank_icon=github" />
-</a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-ten-lac-39.vercel.app/api/top-langs?username=jingavin&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
@@ -10,9 +8,9 @@
 
 Here are some ideas to get you started:
 
-
-[![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingavin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingavin&layout=compact&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-ten-lac-39.vercel.app/api?username=jingavin&theme=dark&rank_icon=github" />
+</a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
