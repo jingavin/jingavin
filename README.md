@@ -1,6 +1,6 @@
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-ten-lac-39.vercel.app/api/top-langs?username=jingavin&layout=compact&langs_count=8&card_width=320&theme=dark&exclude_repo=aloha-project,inhabitent-project,Instanews" />
+  <img height=200 align="center" src="https://github-readme-stats-ten-lac-39.vercel.app/api/top-langs?username=jingavin&layout=compact&langs_count=8&card_width=320&theme=dark&exclude_repo=aloha-project,inhabitent-project,Instanews,Quotes-on-dev" />
 </a>
 
 <!--
